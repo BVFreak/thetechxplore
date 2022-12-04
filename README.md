@@ -1,4 +1,4 @@
-![](https://github.com/MacTechStudios/MacTechStudios/blob/master/logo.png)
+![](https://github.com/MacTechStudios/MacTechStudios/blob/main/logo.png)
 
 
 <h1 align="center"> Hello everyone! </h1>
