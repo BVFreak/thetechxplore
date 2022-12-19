@@ -5,7 +5,7 @@
 
 
 <div align="center">
-   <a href="https://www.github.com/MacTechStudios" target="_blank">
+   <a href="https://www.github.com/Linux-Tech-Pro" target="_blank">
 <img src=https://img.shields.io/badge/follow%20me-black.svg?&style=for-the-badge&logo=github&logoColor=white alt="follow me" style="margin-bottom: 5px;" /></a>
 <a href="https://youtube.com/@mactechnexus" target="_blank">
 <img src=https://img.shields.io/badge/youtube-red.svg?&style=for-the-badge&logo=youtube&logoColor=white alt="youtube channel" style="margin-bottom: 5px;" /></a>
@@ -13,7 +13,7 @@
 <img src=https://img.shields.io/badge/discord-7289da.svg?&style=for-the-badge&logo=discord&logoColor=white alt="discord server" style="margin-bottom: 5px;" /></a>
 <a href="https://instagram.com/lane_mac_user/" target="_blank">
    <img src="https://img.shields.io/badge/Instagram-red.svg?&style=for-the-badge&logo=instagram&logoColor=black&alt=Instagram" style="margin-bottom: 5px;" /></a>
-<img src=https://visitor-badge.laobi.icu/badge?page_id=mactechstudios.mactechstudios />
+<img src=https://visitor-badge.laobi.icu/badge?page_id=linux-tech-pro.linux-tech-pro />
 </div>
 <br>
 
@@ -48,4 +48,4 @@ const MacTechStudios = {
 }
 ```
 
-[![MacTechStudios's GitHub stats](https://github-readme-stats.vercel.app/api?username=MacTechStudios&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MacTechStudios&layout=compact&langs_count=8&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![LinuxTechPro's GitHub stats](https://github-readme-stats.vercel.app/api?username=linux-tech-pro&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=linux-tech-pro&layout=compact&langs_count=8&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)<br>
