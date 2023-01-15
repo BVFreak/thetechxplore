@@ -1,4 +1,4 @@
-![](https://github.com/thetechxplore/thetechxplore/blob/main/logo.png)
+![](https://github.com/thetechxplore/thetechxplore/blob/main/readme.png)
 
 
 <h1 align="center"> Hello everyone! </h1>
